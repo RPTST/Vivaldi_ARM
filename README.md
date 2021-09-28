@@ -2,10 +2,14 @@
 Vivaldi for arm based SBCs in one place
 
 
-First download the Chromium patched FFMpeg to play H.264, e.g.
+First download Chromium patched FFMpeg to play H.264, e.g.
 
     wget https://launchpadlibrarian.net/435404265/chromium-codecs-ffmpeg-extra_76.0.3809.87-0ubuntu0.16.04.1_armhf.deb
     dpkg -i chromium-codecs-ffmpeg-extra_76.0.3809.87-0ubuntu0.16.04.1_armhf.deb
+ 
+  Then download Vivaldi
+
+    wget https://awk.tw/vivaldi/vivaldi-stable_3.7.2218.52-1_armhf.deb
 
 To install the contents of these files on an ARMhf device, copy the tar archive over to the target machine and issue the following:
 
