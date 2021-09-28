@@ -1,6 +1,17 @@
 # Vivaldi_ARM
 Vivaldi for arm based SBCs in one place
 
+SBC OS:
+
+TinkerBoard
+
+    https://tinkerboarding.co.uk/wiki/index.php/TinkerOS
+    https://tinkerboarding.co.uk/forum/thread-69.html
+    https://tinker-board.asus.com/download.html#os
+
+Raspberr Pi
+
+    https://www.raspberrypi.org/software/
 
 First download Chromium patched FFMpeg to play H.264, e.g.
 
